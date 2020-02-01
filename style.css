@@ -104,12 +104,12 @@ main{
   opacity:0.5;
 }
 
-.portforio-wrapper{
+.portfolio-wrapper{
   background-color: #CFC0BF;
   height:auto;
 }
 
-.portforio-image{
+.portfolio-image{
   display: flex;
   flex-wrap:wrap;
   flex-flow: column;
