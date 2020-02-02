@@ -7,10 +7,6 @@ ul{
   list-style:none;
 }
 
-main{
-  height:860px;
-}
-
 .main-header-list{
   display:flex;
 }
