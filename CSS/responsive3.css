@@ -1,35 +1,38 @@
 
 @media(max-width:670px){
-  header{
+  main{
     width:100%;
-    height:30px;
   }
-  .header-logo{
-    font-size: 50px;
+  .main-base{
+    padding:120px 0;
+  }
+  .downbtn{
+    padding-top:100px;
+  }
+  .main-header-logo{
+    font-size: 80px;
     letter-spacing:.2em;
-    clear:left;
   }
-  .header-list{
-    font-size:35px;
-    flex-wrap:wrap;
-  }
-  .header-list li{
-    margin:0 5px 0 5px;
-    padding:0 15px 0 15px;
+  .main-header-list{
+    font-size:30px;
   }
   .section-title{
     font-size:60px;
-    display:block;
   }
-  .portfolio-wrapper{
-    text-align:center;
+  .skill-content i{
+    font-size: 150px;
   }
-  .portfolio-list-item img{
+  .text{
+    font-size: 25px;
+    padding-bottom: 10px;
+  }
+  .text-container{
+    margin:0 10px 0 10px;
+    padding:13px;
+  }
+  .image-item img{
     width: 300px;
     height: 200px;
-  }
-  .portfolio-list{
-    padding-bottom:50px;
   }
   .footer-adress a{
     font-size:30px;
