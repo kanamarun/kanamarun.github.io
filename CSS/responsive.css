@@ -1,5 +1,8 @@
 
 @media(max-width:670px){
+   main{
+    width:100%;
+  }
   .main-base{
     padding:120px 0;
   }
