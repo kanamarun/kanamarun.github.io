@@ -1,0 +1,40 @@
+
+@media(max-width:670px){
+  .main-base{
+    padding:120px 0;
+  }
+  .downbtn{
+    padding-top:100px;
+  }
+  .main-header-logo{
+    font-size: 80px;
+    letter-spacing:.2em;
+  }
+  .main-header-list{
+    font-size:30px;
+  }
+  .section-title{
+    font-size:60px;
+  }
+  .skill-content i{
+    font-size: 150px;
+  }
+  .text{
+    font-size: 25px;
+    padding-bottom: 10px;
+  }
+  .text-container{
+    margin:0 10px 0 10px;
+    padding:13px;
+  }
+  .image-item img{
+    width: 300px;
+    height: 200px;
+  }
+  .footer-adress a{
+    font-size:30px;
+    margin: 10px 20px;
+    transition: all .3s;
+    color:#806D53;
+  }
+}
