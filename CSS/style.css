@@ -110,6 +110,7 @@ main{
 .portfolio-wrapper{
   background-color: #CFC0BF;
   height:auto;
+  width:100%;
 }
 
 .portfolio-image{
