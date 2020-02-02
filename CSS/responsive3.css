@@ -27,8 +27,6 @@
   .portfolio-list-item img{
     width: 300px;
     height: 200px;
-    margin:15px;
-    flex: auto;
   }
   .portfolio-list{
     padding-bottom:50px;
