@@ -1,7 +1,7 @@
 
 @media(max-width:670px){
    main{
-    width:100%;
+    width:auto;
   }
   .main-base{
     padding:120px 0;
