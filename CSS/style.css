@@ -7,6 +7,10 @@ ul{
   list-style:none;
 }
 
+main{
+  height:860px;
+}
+
 .main-header-list{
   display:flex;
 }
@@ -32,10 +36,6 @@ ul{
   letter-spacing:.5em;
   text-align: center;
   color: #806D53;
-}
-
-main{
-  height:860px;
 }
 
 .downbtn{
@@ -101,6 +101,10 @@ main{
 
 .Unacquired{
   opacity:0.5;
+}
+
+.text-container{
+  margin:0 300px 0 300px;
 }
 
 .portfolio-wrapper{
