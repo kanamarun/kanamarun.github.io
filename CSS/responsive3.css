@@ -21,6 +21,9 @@
     font-size:60px;
     display:block;
   }
+  .portfolio-wrapper{
+    text-align: center;
+  }
   .portfolio-list-item img{
     width: 300px;
     height: 200px;
