@@ -74,6 +74,9 @@ header{
   height: 20%;
   margin:50px;
 }
+.txtbox{
+  margin-right:220px;
+}
 
 footer{
   text-align: center;
