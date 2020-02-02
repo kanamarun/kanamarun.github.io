@@ -26,6 +26,7 @@
     height: 230px;
     margin:15px;
     flex: auto;
+    text-align: center;
   }
   .portfolio-list{
     padding-bottom:50px;
